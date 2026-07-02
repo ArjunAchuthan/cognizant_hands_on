@@ -1,4 +1,4 @@
-package Week_1.FactoryMethodPatternExample;
+package Week1.FactoryMethodPatternExample;
 
 public class WordDocumentFactory extends DocumentFactory {
 

@@ -1,3 +1,4 @@
+package Week1.SingletonPattern;
 public class Logger {
 
     private static Logger instance;
